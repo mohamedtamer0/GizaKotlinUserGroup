@@ -13,7 +13,7 @@ html {
 }
 
 .header {
-    padding-top: 180px;
+    padding-top: 200px;
     text-align: center;
     color: white;
     font-size: 30px;
@@ -57,4 +57,3 @@ a {
 img {
     width: 100px;
 }
-
