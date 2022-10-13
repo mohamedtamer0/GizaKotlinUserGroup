@@ -6,14 +6,14 @@ html {
 
 .bg {
     background-image: url("https://user-images.githubusercontent.com/51374446/195588261-f81ac4dc-ff32-4c65-81e9-6ce3f92a1528.png");
-    height: 92%;
+    height: 100%;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .header {
-    padding-top: 100px;
+    padding-top: 20px;
     text-align: center;
     color: white;
     font-size: 30px;
